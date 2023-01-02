@@ -1,4 +1,4 @@
 # misc-utils
-Just some stuff I've written or forked for my own scripts/programs...
+A collection of various programs i've written over time...
 
-Feel free to contract me to know what each of it does... 🤷🏻‍♂️ I'll respond if i know.
+Feel free to use any of the code in this repository.
